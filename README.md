@@ -1,6 +1,4 @@
-# MEU PERFIL COMPLETO
+# MEUS PROJETOS
 Meu primeiro projeto em Python.
-Minhas aulas.
 Meus projetos em aulas.
-Idade: 11 
-Nome: Daniel
+Meus projetos (os que eu fiz por mim mesmo).
